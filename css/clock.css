@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Orbitron;
+    font-size: 50px;
+    color: #17D4FE;
+}
+
+.heading {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+#myclock {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+

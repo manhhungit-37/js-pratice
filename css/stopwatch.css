@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #ffa600;
+    color: #fff;
+}
+
+.heading {
+    
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn-stopwatch {
+    display: inline-block;
+    background-color: #ffa600;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 6%;
+    padding: 20px 40px;
+    margin: 0 25px;
+    cursor: pointer;
+}
+
+.mg-bt-20 {
+    margin-bottom: 20px;
+}

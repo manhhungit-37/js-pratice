@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.calculator {
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.operators {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.operators > div {
+    line-height: 40px;
+    padding: 10px 45px;
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+
+
+.numbers {
+    display: flex;
+    justify-content: space-around;
+}
